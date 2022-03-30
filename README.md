@@ -1,7 +1,7 @@
 # Setup-PostgreSQL
-Setting up PostgresSQL database using Sequelize and ExpressJS
+Setting up PostgresSQL database using Sequelize and ExpressJS with migrations file
 
-# SETUP DATABASE INI
+## SETUP DATABASE INI
 ```
   dialect=postgres
   username=your_username
